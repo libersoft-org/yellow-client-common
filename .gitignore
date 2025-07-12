@@ -10,7 +10,6 @@ node_modules
 /.svelte-kit
 /build
 
-
 # OS
 .DS_Store
 Thumbs.db
@@ -24,9 +23,3 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-# Paraglide
-src/lib/paraglide
-
-*storybook.log
-project.inlang/cache/

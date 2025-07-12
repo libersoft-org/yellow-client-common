@@ -84,9 +84,6 @@
   "keywords": [
     "svelte"
   ],
-  "dependencies": {
-    "@inlang/paraglide-js": "^2.0.0"
-  },
   "eslintConfig": {
     "extends": [
       "plugin:storybook/recommended"
